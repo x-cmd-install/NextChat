@@ -1,0 +1,61 @@
+about:
+  description: ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+  license: MIT
+  homepage: https://nextchat.club
+  head: defdcdb
+  archived: false
+  latestVersion: v2.16.1
+  collectedAt: 2026-08-29T07:21:28Z
+timeline:
+  created: 2023-03-10
+  lastCommit: 2026-08-11
+  lastRelease: 2025-07-29
+popularity:
+  star: 88662
+  watcher: 488
+  fork: 59177
+  release: 77
+  contributor: 257
+  pullRequest: 1823
+  issue: 3610
+language:
+  TypeScript: 1331900
+  SCSS: 97069
+  JavaScript: 9989
+  Rust: 4632
+  Shell: 3882
+  Dockerfile: 1673
+totalLine: 1449145
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 1
+    openPR: 8
+    closedIssue: 0
+    openIssue: 6
+    commit: 1
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 18
+    openPR: 22
+    closedIssue: 1
+    openIssue: 10
+    commit: 35
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 19
+    openPR: 42
+    closedIssue: 11
+    openIssue: 31
+    commit: 36
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 20
+    openPR: 59
+    closedIssue: 24
+    openIssue: 55
+    commit: 37
