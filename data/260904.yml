@@ -7,7 +7,7 @@ about:
   head: defdcdb
   archived: false
   latestVersion: v2.16.1
-  collectedAt: 2026-09-04T20:01:17Z
+  collectedAt: 2026-09-04T20:40:56Z
 timeline:
   created: 2023-03-10
   lastCommit: 2026-08-11
@@ -85,5 +85,83 @@ total:
   openIssue: 707
   commit: 3139
 ---
+path: /home/runner/.x-repo/github.com/ChatGPTNextWeb/NextChat
+collectedAt: 2026-09-04T20:40:57Z
+loc:
+  TypeScript:
+    code: 27728
+    comments: 902
+    blanks: 2308
+    files: 152
+  Tsx:
+    code: 10743
+    comments: 243
+    blanks: 756
+    files: 31
+  Sass:
+    code: 4296
+    comments: 15
+    blanks: 732
+    files: 25
+  Json:
+    code: 1907
+    comments: 0
+    blanks: 1
+    files: 7
+  Svg:
+    code: 521
+    comments: 0
+    blanks: 0
+    files: 89
+  JavaScript:
+    code: 302
+    comments: 11
+    blanks: 33
+    files: 5
+  Rust:
+    code: 126
+    comments: 13
+    blanks: 21
+    files: 3
+  Sh:
+    code: 79
+    comments: 15
+    blanks: 14
+    files: 3
+  Dockerfile:
+    code: 51
+    comments: 0
+    blanks: 17
+    files: 1
+  Toml:
+    code: 41
+    comments: 4
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 37
+    comments: 0
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2170
+    blanks: 1295
+    files: 27
+  Text:
+    code: 0
+    comments: 4
+    blanks: 0
+    files: 1
+total:
+  code: 45898
+  comments: 3383
+  blanks: 5190
+  files: 347
 ---
 
