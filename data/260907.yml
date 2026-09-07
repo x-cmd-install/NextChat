@@ -5,15 +5,15 @@ about:
   head: defdcdb
   archived: false
   latestVersion: "v2.16.1"
-  collectedAt: 2026-09-07T04:42:29Z
+  collectedAt: 2026-09-07T19:41:06Z
 timeline:
   created: 2023-03-10
   lastCommit: 2026-08-11
   lastRelease: 2025-07-29
 popularity:
-  star: 88715
+  star: 88718
   watcher: 494
-  fork: 59132
+  fork: 59127
   release: 77
   contributor: 257
   pullRequest: 2740
@@ -84,7 +84,7 @@ total:
   commit: 3139
 ---
 path: /home/runner/.x-repo/github.com/ChatGPTNextWeb/NextChat
-collectedAt: 2026-09-07T04:42:31Z
+collectedAt: 2026-09-07T19:41:07Z
 loc:
   TypeScript:
     code: 27728
@@ -165,7 +165,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:32+00:00
+  collectedAt: 2026-09-07T19:41:08+00:00
   platform:
     darwin/arm64:
       name:  null
