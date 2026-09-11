@@ -12,6 +12,18 @@
 x install NextChat
 ```
 
+## Code insight
+
+Total: **45,839** lines of code across **304** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 27,728 | 902 | 2,308 | 152 |
+| Tsx | 10,743 | 243 | 756 | 31 |
+| Sass | 4,296 | 15 | 732 | 25 |
+| Json | 1,907 | 0 | 1 | 7 |
+| Svg | 521 | 0 | 0 | 89 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ChatGPTNextWeb/NextChat>
@@ -25,7 +37,7 @@ x install NextChat
 
 ## Popularity
 
-- **Stars**: 88,730 · **Forks**: 59,102 · **Open issues**: 3,614 · **Contributors**: 257
+- **Stars**: 88,732 · **Forks**: 59,099 · **Open issues**: 3,614 · **Contributors**: 257
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install NextChat
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 11 | 0 | 4 | 0 |
-| 90d | 2026-06-12 | 0 | 18 | 25 | 1 | 9 | 35 |
-| 360d | 2025-09-15 | 0 | 20 | 64 | 24 | 54 | 37 |
-
-## Code size
-
-Total: **45,839** lines of code across **304** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 27,728 | 902 | 2,308 | 152 |
-| Tsx | 10,743 | 243 | 756 | 31 |
-| Sass | 4,296 | 15 | 732 | 25 |
-| Json | 1,907 | 0 | 1 | 7 |
-| Svg | 521 | 0 | 0 | 89 |
+| 30d | 2026-08-12 | 0 | 0 | 11 | 0 | 4 | 0 |
+| last60d | 2026-07-13 | 0 | 1 | 19 | 0 | 7 | 1 |
+| 90d | 2026-06-13 | 0 | 18 | 25 | 1 | 9 | 35 |
+| last180d | 2026-03-15 | 0 | 19 | 43 | 10 | 30 | 36 |
+| 360d | 2025-09-16 | 0 | 20 | 64 | 24 | 53 | 37 |
+| last720d | 2024-09-21 | 8 | 171 | 112 | 239 | 373 | 601 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for NextChat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:04:33Z._
