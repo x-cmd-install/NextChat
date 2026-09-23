@@ -4,7 +4,7 @@
 
 ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
-[![x-cmd/install — NextChat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/NextChat.svg)](https://x-cmd.com/install/NextChat)
+[![x-cmd/install — NextChat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/NextChat.svg)](https://x-cmd.com/install/NextChat)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **45,839** lines of code across **304** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 88,798 · **Forks**: 59,016 · **Open issues**: 3,614 · **Contributors**: 257
+- **Stars**: 88,805 · **Forks**: 59,006 · **Open issues**: 3,614 · **Contributors**: 257
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **45,839** lines of code across **304** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 13 | 0 | 3 | 0 |
-| last60d | 2026-07-24 | 0 | 1 | 19 | 0 | 7 | 1 |
-| 90d | 2026-06-24 | 0 | 18 | 30 | 1 | 9 | 35 |
-| last180d | 2026-03-26 | 0 | 19 | 48 | 8 | 30 | 36 |
-| 360d | 2025-09-27 | 0 | 19 | 69 | 22 | 49 | 36 |
-| last720d | 2024-10-02 | 7 | 152 | 115 | 215 | 360 | 507 |
+| 30d | 2026-08-24 | 0 | 0 | 13 | 0 | 3 | 0 |
+| last60d | 2026-07-25 | 0 | 1 | 19 | 0 | 7 | 1 |
+| 90d | 2026-06-25 | 0 | 18 | 30 | 1 | 9 | 35 |
+| last180d | 2026-03-27 | 0 | 19 | 48 | 8 | 30 | 36 |
+| 360d | 2025-09-28 | 0 | 19 | 69 | 21 | 49 | 36 |
+| last720d | 2024-10-03 | 7 | 150 | 114 | 214 | 360 | 507 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for NextChat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:07:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:54Z._

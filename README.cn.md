@@ -4,7 +4,7 @@
 
 ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
-[![x-cmd/install — NextChat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/NextChat.svg?lang=zh)](https://x-cmd.com/install/NextChat)
+[![x-cmd/install — NextChat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/NextChat.svg?lang=zh)](https://x-cmd.com/install/NextChat)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install NextChat
 
 ## 流行度
 
-- **Star**: 88,798 · **Fork**: 59,016 · **开放 issue**: 3,614 · **贡献者**: 257
+- **Star**: 88,805 · **Fork**: 59,006 · **开放 issue**: 3,614 · **贡献者**: 257
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install NextChat
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 13 | 0 | 3 | 0 |
-| last60d | 2026-07-24 | 0 | 1 | 19 | 0 | 7 | 1 |
-| 90d | 2026-06-24 | 0 | 18 | 30 | 1 | 9 | 35 |
-| last180d | 2026-03-26 | 0 | 19 | 48 | 8 | 30 | 36 |
-| 360d | 2025-09-27 | 0 | 19 | 69 | 22 | 49 | 36 |
-| last720d | 2024-10-02 | 7 | 152 | 115 | 215 | 360 | 507 |
+| 30d | 2026-08-24 | 0 | 0 | 13 | 0 | 3 | 0 |
+| last60d | 2026-07-25 | 0 | 1 | 19 | 0 | 7 | 1 |
+| 90d | 2026-06-25 | 0 | 18 | 30 | 1 | 9 | 35 |
+| last180d | 2026-03-27 | 0 | 19 | 48 | 8 | 30 | 36 |
+| 360d | 2025-09-28 | 0 | 19 | 69 | 21 | 49 | 36 |
+| last720d | 2024-10-03 | 7 | 150 | 114 | 214 | 360 | 507 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ NextChat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:07:17Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:10:55Z._
