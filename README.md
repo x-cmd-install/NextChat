@@ -37,22 +37,22 @@ Total: **45,839** lines of code across **304** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 88,824 · **Forks**: 58,962 · **Open issues**: 3,613 · **Contributors**: 256
+- **Stars**: 88,833 · **Forks**: 58,958 · **Open issues**: 3,613 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 912 · **Open PRs**: 158 · **Closed issues**: 2908 · **Open issues**: 705 · **Commits**: 3139
+- **Releases**: 77 · **Merged PRs**: 912 · **Open PRs**: 157 · **Closed issues**: 2908 · **Open issues**: 705 · **Commits**: 3139
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 11 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 1 | 20 | 0 | 5 | 1 |
-| 90d | 2026-07-01 | 0 | 18 | 30 | 0 | 9 | 35 |
-| last180d | 2026-04-02 | 0 | 19 | 47 | 7 | 30 | 36 |
-| 360d | 2025-10-04 | 0 | 19 | 70 | 20 | 48 | 36 |
-| last720d | 2024-10-09 | 7 | 142 | 113 | 207 | 356 | 496 |
+| 30d | 2026-08-31 | 0 | 0 | 10 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 1 | 19 | 0 | 5 | 1 |
+| 90d | 2026-07-02 | 0 | 18 | 28 | 0 | 9 | 35 |
+| last180d | 2026-04-03 | 0 | 19 | 46 | 7 | 30 | 36 |
+| 360d | 2025-10-05 | 0 | 19 | 69 | 19 | 48 | 36 |
+| last720d | 2024-10-10 | 6 | 141 | 112 | 199 | 353 | 481 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for NextChat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:00:40Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:46:50Z._
