@@ -14,12 +14,12 @@ x install NextChat
 
 ## Code insight
 
-Total: **45,883** lines of code across **300** files in the top 5 languages.
+Total: **46,043** lines of code across **302** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 27,724 | 902 | 2,308 | 152 |
-| Tsx | 10,736 | 243 | 756 | 31 |
+| TypeScript | 27,873 | 911 | 2,328 | 154 |
+| Tsx | 10,747 | 243 | 756 | 31 |
 | Sass | 4,296 | 15 | 732 | 25 |
 | Json | 1,907 | 0 | 1 | 7 |
 | Svg | 576 | 0 | 0 | 85 |
@@ -33,26 +33,26 @@ Total: **45,883** lines of code across **300** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.16.1` (2025-07-29)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 88,876 · **Forks**: 58,770 · **Open issues**: 3,593 · **Contributors**: 257
+- **Stars**: 88,875 · **Forks**: 58,766 · **Open issues**: 3,593 · **Contributors**: 258
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 929 · **Open PRs**: 159 · **Closed issues**: 2897 · **Open issues**: 696 · **Commits**: 3145
+- **Releases**: 77 · **Merged PRs**: 931 · **Open PRs**: 159 · **Closed issues**: 2898 · **Open issues**: 695 · **Commits**: 3149
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 2 | 4 | 0 | 4 | 4 |
-| last60d | 2026-08-21 | 0 | 2 | 15 | 0 | 7 | 4 |
-| 90d | 2026-07-22 | 0 | 3 | 22 | 0 | 11 | 5 |
-| last180d | 2026-04-23 | 0 | 38 | 37 | 3 | 26 | 40 |
-| 360d | 2025-10-25 | 0 | 38 | 71 | 20 | 46 | 40 |
-| last720d | 2024-10-30 | 4 | 138 | 109 | 168 | 336 | 424 |
+| 30d | 2026-09-21 | 0 | 3 | 5 | 0 | 4 | 5 |
+| last60d | 2026-08-22 | 0 | 4 | 15 | 0 | 7 | 6 |
+| 90d | 2026-07-23 | 0 | 5 | 21 | 0 | 11 | 7 |
+| last180d | 2026-04-24 | 0 | 40 | 37 | 2 | 26 | 42 |
+| 360d | 2025-10-26 | 0 | 40 | 71 | 21 | 45 | 42 |
+| last720d | 2024-10-31 | 4 | 139 | 108 | 168 | 335 | 424 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for NextChat lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:07:25Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:47:41Z._
